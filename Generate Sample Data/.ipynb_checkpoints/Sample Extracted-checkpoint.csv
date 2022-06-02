@@ -1,0 +1,1001 @@
+,Main Category 1,Main Category 2,Item,Sub Category 1,Sub Category 2,Sub Category 3,Unit,Quantity
+0,Substructure,Foundation,Substrcture Slab,35,,,m3,148.817
+1,Superstructure,Frame and Slab,RC Beam,Precast,35,No,m3,3278.1
+2,Superstructure,Frame and Slab,Steel Beam,S355,5,,kg,3816.37
+3,Superstructure,Frame and Slab,RC Beam,Castinsitu,G40,0.8,m3,1330.2
+4,Superstructure,Frame and Slab,Structural Wall,Castinsitu,G30,Parapet Wall,m3,1340.16
+5,Superstructure,Frame and Slab,RC Slab,Castinsitu,35,,m3,4506.505
+6,Substructure,Foundation,Column Base,G30,,,m3,9697.9
+7,Substructure,Piling,Permamnent Pile,Spun Pile,35,400,Nos,721.0
+8,Substructure,Foundation,Substructure Column,35,,,m3,1497.0
+9,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G40,,m3,9704.881
+10,Substructure,Foundation,Column Base,35,,,m3,5219.0
+11,Superstructure,Frame and Slab,RC Staircase,Precast,35,,m3,6487.4
+12,Substructure,Foundation,Substructure Column,G40,,,m3,4347.0
+13,Substructure,Foundation,Substructure Column,G30,,,m3,799.71
+14,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,152 x 152 x 23 UC,,kg,7363.34
+15,Superstructure,Frame and Slab,RC Column,Precast,G40,,m3,6743.108
+16,Substructure,Foundation,Substructure Column,35,,,m3,3878.5
+17,Superstructure,Frame and Slab,Steel Beam,S355,152 x 152 x 23 UC,,kg,4386.0
+18,Substructure,Foundation,Pile Cap,G30,,,m3,1088.01
+19,Superstructure,Frame and Slab,Steel Column,EN 10025 S275,5,,kg,3432.62
+20,Superstructure,Frame and Slab,RC Slab,Castinsitu,35,,m3,9095.5
+21,Substructure,Foundation,Raft Footing,35,,,m3,1956.185
+22,Substructure,Piling,Permamnent Pile,Spun Pile,G30,400,Nos,2893.0
+23,Substructure,Piling,Permamnent Pile,Bored Pile,35,350mm,Nos,1413.165
+24,Substructure,Foundation,Column Base,G30,,,m3,5914.941
+25,Substructure,Piling,Permamnent Pile,Spun Pile,35,400,Nos,8273.458
+26,Superstructure,Frame and Slab,RC Staircase,Castinsitu,G40,,m3,1160.0
+27,Substructure,Foundation,Substructure Beam,G40,,,m3,8713.4
+28,Substructure,Foundation,Pile Cap,G30,,,m3,3480.37
+29,Superstructure,Frame and Slab,RC Slab,Castinsitu,35,,m3,2825.2
+30,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,5,,kg,3490.12
+31,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,5,,kg,839.95
+32,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,5955.54
+33,Substructure,Foundation,Substructure Column,G30,,,m3,7404.55
+34,Superstructure,Frame and Slab,RC Slab,Precast,G40,,m3,955.0
+35,Substructure,Piling,Permamnent Pile,Bored Pile,35,400,Nos,9839.0
+36,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,5228.43
+37,Substructure,Piling,Permamnent Pile,Micro Pile,G40,350mm,Nos,3245.9
+38,Substructure,Piling,Permamnent Pile,Bored Pile,G30,400,Nos,9209.86
+39,Substructure,Foundation,Substrcture Slab,35,,,m3,8809.0
+40,Substructure,Foundation,Substrcture Slab,35,,,m3,4516.431
+41,Substructure,Foundation,Substructure Beam,G40,,,m3,9556.503
+42,Superstructure,Frame and Slab,RC Column,Cast in-situ,35,,m3,1526.0
+43,Substructure,Foundation,Substructure Column,35,,,m3,3761.0
+44,Substructure,Piling,Permamnent Pile,Bored Pile,G30,400,Nos,1767.84
+45,Substructure,Foundation,Raft Footing,G40,,,m3,5980.797
+46,Substructure,Foundation,Wall Footing,G40,,,m3,1628.512
+47,Superstructure,Frame and Slab,Structural Wall,Precast,G30,Planter Wall,m3,1531.776
+48,Substructure,Foundation,Pile Cap,G30,,,m3,1068.72
+49,Superstructure,Frame and Slab,RC Slab,Castinsitu,35,,m3,4752.2
+50,Superstructure,Frame and Slab,RC Beam,Castinsitu,G40,80%,m3,969.401
+51,Substructure,Foundation,Wall Footing,G40,,,m3,3555.0
+52,Substructure,Piling,Permamnent Pile,Bored Pile,G30,400,Nos,8372.17
+53,Substructure,Piling,Permamnent Pile,Spun Pile,35,350mm,Nos,9867.3
+54,Substructure,Piling,Permamnent Pile,Spun Pile,G30,200 mm,Nos,9062.052
+55,Superstructure,Frame and Slab,RC Beam,Precast,G30,"Yes,1:35",m3,8385.8
+56,Substructure,Foundation,Pile Cap,G30,,,m3,6620.8
+57,Superstructure,Frame and Slab,Steel Staircase,S355,152 x 152 x 23 UC,,kg,7027.62
+58,Superstructure,Frame and Slab,RC Beam,Precast,G40,No,m3,4888.52
+59,Substructure,Piling,Permamnent Pile,Spun Pile,G30,200 mm,Nos,4607.7
+60,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,152 x 152 x 23 UC,,kg,7669.0
+61,Superstructure,Frame and Slab,Structural Wall,Castinsitu,G40,Planter Wall,m3,8755.8
+62,Substructure,Piling,Permamnent Pile,Micro Pile,G30,400,Nos,146.8
+63,Superstructure,Frame and Slab,RC Beam,Precast,G40,,m3,6694.0
+64,Superstructure,Frame and Slab,Steel Column,EN 10025 S275,152 x 152 x 23 UC,,kg,9041.8
+65,Substructure,Foundation,Column Base,G40,,,m3,6563.6
+66,Superstructure,Frame and Slab,RC Beam,Precast,G40,,m3,3894.013
+67,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,5,,kg,6536.378
+68,Substructure,Foundation,Substructure Column,G30,,,m3,553.0
+69,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,9137.0
+70,Substructure,Piling,Permamnent Pile,Spun Pile,G40,200 mm,Nos,6593.0
+71,Substructure,Piling,Permamnent Pile,Spun Pile,G40,350mm,Nos,1776.8
+72,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,8383.7
+73,Superstructure,Frame and Slab,RC Slab,Precast,35,,m3,7295.0
+74,Substructure,Piling,Permamnent Pile,Spun Pile,G30,200 mm,Nos,9378.26
+75,Substructure,Piling,Permamnent Pile,Spun Pile,35,200 mm,Nos,2479.31
+76,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,G40,Ramp Wall,m3,3417.35
+77,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,5,,kg,4593.0
+78,Superstructure,Frame and Slab,RC Column,Precast,G40,,m3,1616.0
+79,Superstructure,Frame and Slab,Structural Wall,Castinsitu,35,Ramp Wall,m3,5707.0
+80,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,152 x 152 x 23 UC,,kg,3938.0
+81,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,5,,kg,2987.9
+82,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G40,,m3,5724.85
+83,Superstructure,Frame and Slab,Structural Wall,Castinsitu,35,Ramp Wall,m3,6308.809
+84,Superstructure,Frame and Slab,RC Slab,Precast,G40,,m3,6032.0
+85,Substructure,Piling,Permamnent Pile,Spun Pile,G40,200 mm,Nos,7679.0
+86,Substructure,Foundation,Substructure Column,G30,,,m3,5042.0
+87,Substructure,Piling,Permamnent Pile,Spun Pile,G40,200 mm,Nos,4205.02
+88,Superstructure,Frame and Slab,RC Beam,Cast in-situ,G30,80%,m3,6538.3
+89,Substructure,Foundation,Substructure Wall,G40,,,m3,3202.674
+90,Superstructure,Frame and Slab,Steel Beam,S355,152 x 152 x 23 UC,,kg,4822.61
+91,Superstructure,Frame and Slab,Steel Column,EN 10025 S275,152 x 152 x 23 UC,,kg,1577.6
+92,Superstructure,Frame and Slab,RC Slab,Precast,35,,m3,5857.0
+93,Substructure,Piling,Permamnent Pile,Spun Pile,G40,200 mm,Nos,3889.4
+94,Substructure,Foundation,Raft Footing,35,,,m3,8384.7
+95,Superstructure,Frame and Slab,RC Column,Precast,35,,m3,1745.205
+96,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,4349.3
+97,Substructure,Foundation,Substrcture Slab,35,,,m3,1305.2
+98,Substructure,Piling,Permamnent Pile,Bored Pile,35,350mm,Nos,6384.0
+99,Substructure,Foundation,Substructure Column,G40,,,m3,8861.2
+100,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,5,,kg,5080.134
+101,Substructure,Piling,Permamnent Pile,Bored Pile,35,200 mm,Nos,2704.0
+102,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,152 x 152 x 23 UC,,kg,3506.8
+103,Substructure,Piling,Permamnent Pile,Micro Pile,G30,350mm,Nos,9577.0
+104,Substructure,Piling,Permamnent Pile,Bored Pile,G40,350mm,Nos,663.0
+105,Superstructure,Frame and Slab,RC Beam,Castinsitu,G30,No,m3,7031.0
+106,Substructure,Piling,Permamnent Pile,Micro Pile,G40,400,Nos,5353.77
+107,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,5,,kg,3568.43
+108,Superstructure,Frame and Slab,Steel Staircase,S355,5,,kg,6267.64
+109,Superstructure,Frame and Slab,Steel Beam,S355,5,,kg,1160.7
+110,Substructure,Foundation,Substructure Column,G40,,,m3,8819.1
+111,Superstructure,Frame and Slab,RC Beam,Precast,G30,,m3,1691.1
+112,Substructure,Foundation,Substructure Column,G40,,,m3,7588.98
+113,Superstructure,Frame and Slab,RC Slab,Castinsitu,G40,,m3,8476.0
+114,Substructure,Foundation,Wall Footing,35,,,m3,6223.9
+115,Substructure,Foundation,Substructure Column,G40,,,m3,5999.0
+116,Superstructure,Frame and Slab,Steel Column,EN 10025 S275,5,,kg,8283.186
+117,Substructure,Foundation,Substructure Wall,35,,,m3,5819.091
+118,Substructure,Piling,Permamnent Pile,Spun Pile,G40,400,Nos,2739.22
+119,Substructure,Piling,Permamnent Pile,Spun Pile,G40,200 mm,Nos,1776.3
+120,Substructure,Foundation,Column Base,G40,,,m3,5738.0
+121,Substructure,Foundation,Raft Footing,G40,,,m3,9070.6
+122,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,171.98
+123,Substructure,Piling,Permamnent Pile,Spun Pile,35,400,Nos,9676.07
+124,Superstructure,Frame and Slab,Steel Beam,S355,152 x 152 x 23 UC,,kg,3756.0
+125,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,305.2
+126,Superstructure,Frame and Slab,RC Slab,Castinsitu,35,,m3,5982.612
+127,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,3597.0
+128,Substructure,Piling,Permamnent Pile,Bored Pile,G30,350mm,Nos,2441.0
+129,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,G40,Lift Core Wall,m3,6263.6
+130,Substructure,Foundation,Raft Footing,G40,,,m3,1548.03
+131,Superstructure,Frame and Slab,RC Beam,Cast in-situ,G30,0.8,m3,6644.1
+132,Superstructure,Frame and Slab,RC Staircase,Precast,G40,,m3,2941.69
+133,Substructure,Piling,Permamnent Pile,Micro Pile,G40,200 mm,Nos,1112.9
+134,Substructure,Piling,Permamnent Pile,Micro Pile,G40,200 mm,Nos,764.64
+135,Substructure,Foundation,Substructure Column,G40,,,m3,9270.16
+136,Superstructure,Frame and Slab,Steel Beam,S355,152 x 152 x 23 UC,,kg,4658.0
+137,Superstructure,Frame and Slab,RC Staircase,Castinsitu,35,,m3,352.64
+138,Superstructure,Frame and Slab,RC Slab,Precast,G30,,m3,3446.838
+139,Substructure,Foundation,Wall Footing,G40,,,m3,524.87
+140,Substructure,Foundation,Pile Cap,35,,,m3,7498.24
+141,Substructure,Piling,Permamnent Pile,Spun Pile,G30,350mm,Nos,5356.54
+142,Superstructure,Frame and Slab,Steel Column,EN 10025 S275,152 x 152 x 23 UC,,kg,9158.5
+143,Superstructure,Frame and Slab,RC Slab,Cast in-situ,35,,m3,8147.02
+144,Superstructure,Frame and Slab,Steel Column,S355,152 x 152 x 23 UC,,kg,3827.12
+145,Superstructure,Frame and Slab,Steel Beam,S355,152 x 152 x 23 UC,,kg,2303.9
+146,Substructure,Piling,Permamnent Pile,Spun Pile,G40,200 mm,Nos,6721.0
+147,Substructure,Piling,Permamnent Pile,Bored Pile,35,200 mm,Nos,5585.662
+148,Superstructure,Frame and Slab,RC Column,Precast,35,,m3,1020.8
+149,Substructure,Foundation,Substructure Wall,G30,,,m3,3261.0
+150,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G30,,m3,4824.71
+151,Superstructure,Frame and Slab,Steel Beam,S355,5,,kg,1266.7
+152,Substructure,Foundation,Column Base,35,,,m3,9917.16
+153,Superstructure,Frame and Slab,Steel Column,EN 10025 S275,152 x 152 x 23 UC,,kg,2593.4
+154,Superstructure,Frame and Slab,RC Beam,Castinsitu,35,80%,m3,2739.0
+155,Substructure,Piling,Permamnent Pile,Spun Pile,35,400,Nos,7025.0
+156,Substructure,Foundation,Substructure Wall,G30,,,m3,8428.624
+157,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,5,,kg,8220.2
+158,Substructure,Piling,Permamnent Pile,Bored Pile,35,200 mm,Nos,9408.38
+159,Superstructure,Frame and Slab,Steel Staircase,BS4360 Grade 43A,5,,kg,6561.0
+160,Substructure,Piling,Permamnent Pile,Spun Pile,G40,350mm,Nos,5711.805
+161,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,3169.983
+162,Substructure,Piling,Permamnent Pile,Spun Pile,G30,200 mm,Nos,4486.8
+163,Substructure,Foundation,Column Base,G30,,,m3,2407.0
+164,Substructure,Piling,Permamnent Pile,Micro Pile,G30,400,Nos,9714.0
+165,Superstructure,Frame and Slab,RC Beam,Castinsitu,35,No,m3,6419.2
+166,Superstructure,Frame and Slab,Structural Wall,Precast,35,Parapet Wall,m3,1343.7
+167,Substructure,Foundation,Raft Footing,G30,,,m3,8038.0
+168,Substructure,Piling,Permamnent Pile,Spun Pile,G40,200 mm,Nos,9769.1
+169,Substructure,Piling,Permamnent Pile,Micro Pile,35,400,Nos,6568.58
+170,Substructure,Foundation,Substructure Column,G30,,,m3,5010.7
+171,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,5,,kg,5827.03
+172,Superstructure,Frame and Slab,RC Slab,Precast,G40,,m3,5262.0
+173,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G30,,m3,2974.94
+174,Substructure,Piling,Permamnent Pile,Spun Pile,35,350mm,Nos,1850.0
+175,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,152 x 152 x 23 UC,,kg,7271.7
+176,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,9033.14
+177,Substructure,Foundation,Wall Footing,G30,,,m3,2057.7
+178,Substructure,Piling,Permamnent Pile,Spun Pile,G40,350mm,Nos,1119.5
+179,Substructure,Foundation,Substructure Column,G30,,,m3,3968.608
+180,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G30,,m3,5024.0
+181,Superstructure,Frame and Slab,Steel Beam,S355,5,,kg,5715.483
+182,Substructure,Foundation,Pile Cap,G30,,,m3,6996.22
+183,Superstructure,Frame and Slab,Steel Staircase,S355,152 x 152 x 23 UC,,kg,4319.09
+184,Substructure,Foundation,Pile Cap,35,,,m3,4332.0
+185,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G30,,m3,5738.0
+186,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,5,,kg,1488.009
+187,Superstructure,Frame and Slab,RC Slab,Castinsitu,G40,,m3,5437.24
+188,Superstructure,Frame and Slab,RC Staircase,Precast,35,,m3,8207.34
+189,Substructure,Piling,Permamnent Pile,Bored Pile,G30,200 mm,Nos,4689.75
+190,Superstructure,Frame and Slab,RC Column,Cast in-situ,35,,m3,8655.0
+191,Substructure,Foundation,Pile Cap,G40,,,m3,6029.05
+192,Superstructure,Frame and Slab,Steel Column,S355,5,,kg,7254.098
+193,Superstructure,Frame and Slab,RC Column,Castinsitu,G40,,m3,4900.42
+194,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,8126.0
+195,Substructure,Foundation,Raft Footing,35,,,m3,973.8
+196,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,4607.0
+197,Substructure,Foundation,Substructure Beam,G30,,,m3,7346.5
+198,Superstructure,Frame and Slab,RC Beam,Castinsitu,35,"Yes,1:35",m3,6955.8
+199,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,5,,kg,1824.0
+200,Substructure,Piling,Permamnent Pile,Bored Pile,35,400,Nos,8404.0
+201,Superstructure,Frame and Slab,RC Staircase,Castinsitu,35,,m3,4588.73
+202,Substructure,Piling,Permamnent Pile,Spun Pile,35,350mm,Nos,4519.217
+203,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,5,,kg,8806.1
+204,Substructure,Piling,Permamnent Pile,Micro Pile,35,350mm,Nos,2440.0
+205,Substructure,Piling,Permamnent Pile,Bored Pile,G40,200 mm,Nos,5977.484
+206,Substructure,Piling,Permamnent Pile,Micro Pile,35,200 mm,Nos,2457.623
+207,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,152 x 152 x 23 UC,,kg,2041.756
+208,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,5,,kg,5910.62
+209,Superstructure,Frame and Slab,RC Slab,Castinsitu,G40,,m3,9322.0
+210,Substructure,Piling,Permamnent Pile,Bored Pile,G30,350mm,Nos,3273.271
+211,Substructure,Foundation,Substructure Beam,35,,,m3,5181.0
+212,Superstructure,Frame and Slab,RC Slab,Precast,35,,m3,576.9
+213,Substructure,Foundation,Substructure Beam,35,,,m3,3962.85
+214,Substructure,Foundation,Substructure Wall,G40,,,m3,4065.0
+215,Superstructure,Frame and Slab,Steel Beam,S355,152 x 152 x 23 UC,,kg,247.632
+216,Substructure,Piling,Permamnent Pile,Bored Pile,35,350mm,Nos,5139.628
+217,Substructure,Foundation,Substrcture Slab,35,,,m3,9258.312
+218,Substructure,Foundation,Substructure Column,G40,,,m3,5273.661
+219,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,4443.3
+220,Substructure,Foundation,Substrcture Slab,G30,,,m3,8597.2
+221,Superstructure,Frame and Slab,Steel Column,EN 10025 S275,152 x 152 x 23 UC,,kg,8275.0
+222,Superstructure,Frame and Slab,RC Column,Cast in-situ,G40,,m3,8439.608
+223,Substructure,Piling,Permamnent Pile,Bored Pile,35,200 mm,Nos,5612.167
+224,Substructure,Foundation,Wall Footing,35,,,m3,6450.5
+225,Superstructure,Frame and Slab,RC Slab,Castinsitu,35,,m3,3564.25
+226,Superstructure,Frame and Slab,RC Staircase,Precast,G40,,m3,5706.8
+227,Superstructure,Frame and Slab,Structural Wall,Precast,G40,Ramp Wall,m3,9483.0
+228,Substructure,Piling,Permamnent Pile,Spun Pile,G30,200 mm,Nos,9714.0
+229,Substructure,Foundation,Substructure Wall,G40,,,m3,5351.0
+230,Superstructure,Frame and Slab,Steel Beam,S355,152 x 152 x 23 UC,,kg,1316.1
+231,Substructure,Piling,Permamnent Pile,Micro Pile,G30,350mm,Nos,8652.94
+232,Substructure,Foundation,Wall Footing,G40,,,m3,9345.0
+233,Substructure,Piling,Permamnent Pile,Micro Pile,35,350mm,Nos,122.759
+234,Substructure,Piling,Permamnent Pile,Micro Pile,G40,200 mm,Nos,3833.5
+235,Superstructure,Frame and Slab,Structural Wall,Castinsitu,35,Planter Wall,m3,5633.836
+236,Superstructure,Frame and Slab,RC Column,Castinsitu,G40,,m3,7467.187
+237,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,5,,kg,239.9
+238,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G30,,m3,4065.369
+239,Superstructure,Frame and Slab,Steel Column,S355,5,,kg,1118.0
+240,Superstructure,Frame and Slab,Steel Column,S355,5,,kg,1680.0
+241,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G40,,m3,8963.08
+242,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,G40,Planter Wall,m3,6948.46
+243,Superstructure,Frame and Slab,Steel Beam,S355,5,,kg,3586.0
+244,Substructure,Foundation,Substructure Wall,G40,,,m3,8895.0
+245,Superstructure,Frame and Slab,Structural Wall,Castinsitu,35,Planter Wall,m3,5213.906
+246,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,35,,m3,9415.0
+247,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,152 x 152 x 23 UC,,kg,1606.2
+248,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G30,,m3,8752.41
+249,Substructure,Piling,Permamnent Pile,Micro Pile,G40,200 mm,Nos,8378.26
+250,Superstructure,Frame and Slab,RC Column,Precast,35,,m3,1692.754
+251,Superstructure,Frame and Slab,RC Slab,Precast,35,,m3,3672.06
+252,Substructure,Piling,Permamnent Pile,Spun Pile,G40,400,Nos,5912.96
+253,Substructure,Piling,Permamnent Pile,Bored Pile,G40,400,Nos,5815.0
+254,Substructure,Foundation,Substructure Wall,G30,,,m3,3928.907
+255,Substructure,Foundation,Substructure Wall,G40,,,m3,1263.0
+256,Substructure,Piling,Permamnent Pile,Bored Pile,35,400,Nos,2665.25
+257,Substructure,Piling,Permamnent Pile,Micro Pile,G40,400,Nos,4216.83
+258,Substructure,Piling,Permamnent Pile,Spun Pile,G30,400,Nos,5478.66
+259,Superstructure,Frame and Slab,RC Beam,Cast in-situ,35,,m3,2837.411
+260,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,5,,kg,9566.34
+261,Substructure,Foundation,Substructure Column,G30,,,m3,7120.4
+262,Substructure,Foundation,Substructure Column,G40,,,m3,8831.314
+263,Substructure,Piling,Permamnent Pile,Micro Pile,G40,400,Nos,8225.0
+264,Substructure,Piling,Permamnent Pile,Spun Pile,35,400,Nos,2918.71
+265,Substructure,Foundation,Column Base,G40,,,m3,985.14
+266,Superstructure,Frame and Slab,RC Slab,Castinsitu,35,,m3,2161.0
+267,Superstructure,Frame and Slab,RC Slab,Precast,G40,,m3,9538.045
+268,Superstructure,Frame and Slab,Steel Column,EN 10025 S275,5,,kg,5342.4
+269,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,735.9
+270,Substructure,Piling,Permamnent Pile,Spun Pile,35,200 mm,Nos,9401.76
+271,Superstructure,Frame and Slab,RC Beam,Castinsitu,G30,80%,m3,73.0
+272,Substructure,Foundation,Substructure Column,35,,,m3,5002.0
+273,Superstructure,Frame and Slab,RC Column,Cast in-situ,G30,,m3,6639.49
+274,Superstructure,Frame and Slab,RC Column,Precast,35,,m3,8408.31
+275,Substructure,Piling,Permamnent Pile,Spun Pile,G40,200 mm,Nos,2840.554
+276,Superstructure,Frame and Slab,RC Beam,Cast in-situ,G30,"Yes,1:35",m3,230.0
+277,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,152 x 152 x 23 UC,,kg,5628.458
+278,Substructure,Piling,Permamnent Pile,Spun Pile,35,200 mm,Nos,4920.653
+279,Superstructure,Frame and Slab,RC Beam,Castinsitu,35,No,m3,9265.3
+280,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G40,,m3,1977.38
+281,Substructure,Foundation,Pile Cap,35,,,m3,7577.5
+282,Superstructure,Frame and Slab,Steel Beam,S355,5,,kg,6491.0
+283,Superstructure,Frame and Slab,Steel Beam,S355,152 x 152 x 23 UC,,kg,1976.108
+284,Substructure,Piling,Permamnent Pile,Bored Pile,G30,200 mm,Nos,9230.378
+285,Substructure,Piling,Permamnent Pile,Micro Pile,G30,200 mm,Nos,5236.3
+286,Substructure,Piling,Permamnent Pile,Micro Pile,G30,200 mm,Nos,7330.3
+287,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,5,,kg,6136.31
+288,Substructure,Foundation,Substructure Column,35,,,m3,3700.0
+289,Substructure,Piling,Permamnent Pile,Bored Pile,35,400,Nos,9688.4
+290,Superstructure,Frame and Slab,RC Staircase,Castinsitu,G40,,m3,181.47
+291,Substructure,Foundation,Pile Cap,G30,,,m3,610.08
+292,Substructure,Piling,Permamnent Pile,Spun Pile,G30,200 mm,Nos,7842.2
+293,Substructure,Piling,Permamnent Pile,Spun Pile,35,400,Nos,5411.29
+294,Substructure,Piling,Permamnent Pile,Bored Pile,G30,200 mm,Nos,7306.936
+295,Superstructure,Frame and Slab,RC Staircase,Castinsitu,35,,m3,668.0
+296,Substructure,Foundation,Substructure Column,35,,,m3,587.719
+297,Superstructure,Frame and Slab,RC Slab,Precast,G30,,m3,6060.3
+298,Substructure,Foundation,Substructure Column,35,,,m3,6013.0
+299,Substructure,Foundation,Substrcture Slab,35,,,m3,4121.02
+300,Substructure,Piling,Permamnent Pile,Spun Pile,35,350mm,Nos,5687.0
+301,Superstructure,Frame and Slab,Structural Wall,Castinsitu,G30,Ramp Wall,m3,3982.0
+302,Substructure,Piling,Permamnent Pile,Bored Pile,G40,200 mm,Nos,7170.44
+303,Substructure,Foundation,Substructure Column,G40,,,m3,9847.0
+304,Substructure,Foundation,Substrcture Slab,G40,,,m3,6010.136
+305,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G30,,m3,6423.62
+306,Substructure,Piling,Permamnent Pile,Micro Pile,35,200 mm,Nos,8178.7
+307,Substructure,Piling,Permamnent Pile,Spun Pile,G40,350mm,Nos,7186.275
+308,Superstructure,Frame and Slab,RC Beam,Castinsitu,G40,80%,m3,5732.94
+309,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,152 x 152 x 23 UC,,kg,2712.0
+310,Substructure,Piling,Permamnent Pile,Micro Pile,35,200 mm,Nos,3971.0
+311,Substructure,Foundation,Wall Footing,G30,,,m3,8277.53
+312,Substructure,Foundation,Wall Footing,G40,,,m3,6514.2
+313,Substructure,Foundation,Substrcture Slab,G30,,,m3,7207.64
+314,Superstructure,Frame and Slab,RC Beam,Castinsitu,G40,0.8,m3,5671.0
+315,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G30,,m3,1130.561
+316,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,5,,kg,3652.4
+317,Superstructure,Frame and Slab,Structural Wall,Precast,35,Ramp Wall,m3,7310.92
+318,Superstructure,Frame and Slab,RC Slab,Precast,G30,,m3,9529.452
+319,Substructure,Foundation,Column Base,35,,,m3,7963.0
+320,Substructure,Foundation,Substructure Beam,35,,,m3,9514.6
+321,Substructure,Foundation,Raft Footing,G40,,,m3,874.0
+322,Superstructure,Frame and Slab,RC Column,Castinsitu,G40,,m3,4063.12
+323,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,G40,Ramp Wall,m3,8235.0
+324,Substructure,Foundation,Substructure Beam,G40,,,m3,3628.6
+325,Superstructure,Frame and Slab,Steel Beam,S355,152 x 152 x 23 UC,,kg,1585.37
+326,Superstructure,Frame and Slab,Steel Staircase,BS4360 Grade 43A,5,,kg,4241.0
+327,Substructure,Piling,Permamnent Pile,Spun Pile,G30,400,Nos,1947.0
+328,Substructure,Piling,Permamnent Pile,Spun Pile,G30,350mm,Nos,5222.44
+329,Superstructure,Frame and Slab,RC Beam,Castinsitu,G40,No,m3,3894.374
+330,Substructure,Piling,Permamnent Pile,Spun Pile,35,350mm,Nos,8609.0
+331,Substructure,Foundation,Substructure Beam,G30,,,m3,209.1
+332,Superstructure,Frame and Slab,RC Slab,Castinsitu,35,,m3,9265.7
+333,Superstructure,Frame and Slab,RC Slab,Cast in-situ,35,,m3,420.705
+334,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,G30,Ramp Wall,m3,8936.657
+335,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G30,,m3,804.2
+336,Superstructure,Frame and Slab,Steel Beam,S355,152 x 152 x 23 UC,,kg,750.479
+337,Superstructure,Frame and Slab,RC Staircase,Precast,35,,m3,5279.65
+338,Substructure,Piling,Permamnent Pile,Micro Pile,35,400,Nos,3953.782
+339,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,152 x 152 x 23 UC,,kg,1354.9
+340,Superstructure,Frame and Slab,RC Beam,Precast,G30,,m3,1084.75
+341,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,7184.329
+342,Substructure,Foundation,Substructure Beam,G40,,,m3,5760.7
+343,Superstructure,Frame and Slab,RC Staircase,Precast,G30,,m3,2296.0
+344,Substructure,Foundation,Wall Footing,35,,,m3,2067.22
+345,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,7789.0
+346,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G40,,m3,5470.5
+347,Superstructure,Frame and Slab,Structural Wall,Precast,G30,Parapet Wall,m3,3721.4
+348,Superstructure,Frame and Slab,Steel Beam,S355,152 x 152 x 23 UC,,kg,9974.16
+349,Substructure,Piling,Permamnent Pile,Bored Pile,G40,200 mm,Nos,843.675
+350,Superstructure,Frame and Slab,RC Beam,Precast,G30,80%,m3,7503.0
+351,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,5,,kg,2585.29
+352,Substructure,Foundation,Substructure Column,35,,,m3,6862.0
+353,Superstructure,Frame and Slab,RC Slab,Cast in-situ,35,,m3,6955.3
+354,Substructure,Foundation,Substructure Wall,G30,,,m3,4276.3
+355,Substructure,Foundation,Column Base,G30,,,m3,261.797
+356,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G40,,m3,7021.77
+357,Substructure,Foundation,Substructure Column,G40,,,m3,4214.5
+358,Superstructure,Frame and Slab,Structural Wall,Precast,G40,Parapet Wall,m3,9080.0
+359,Substructure,Foundation,Substructure Column,35,,,m3,5707.849
+360,Substructure,Piling,Permamnent Pile,Micro Pile,G40,200 mm,Nos,8493.98
+361,Substructure,Piling,Permamnent Pile,Bored Pile,G30,200 mm,Nos,8381.0
+362,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,5,,kg,7057.82
+363,Superstructure,Frame and Slab,Steel Column,S355,152 x 152 x 23 UC,,kg,5329.0
+364,Substructure,Foundation,Raft Footing,G30,,,m3,8088.929
+365,Substructure,Piling,Permamnent Pile,Bored Pile,G30,350mm,Nos,7241.0
+366,Superstructure,Frame and Slab,RC Staircase,Castinsitu,G40,,m3,8496.14
+367,Superstructure,Frame and Slab,RC Slab,Precast,G30,,m3,7669.953
+368,Superstructure,Frame and Slab,RC Column,Precast,G40,,m3,5544.0
+369,Substructure,Foundation,Raft Footing,G30,,,m3,3187.0
+370,Substructure,Piling,Permamnent Pile,Micro Pile,G30,400,Nos,6398.09
+371,Substructure,Foundation,Substructure Wall,G30,,,m3,5104.6
+372,Substructure,Piling,Permamnent Pile,Spun Pile,G30,400,Nos,9711.0
+373,Superstructure,Frame and Slab,Steel Column,S355,5,,kg,5458.3
+374,Substructure,Piling,Permamnent Pile,Spun Pile,35,200 mm,Nos,2701.0
+375,Superstructure,Frame and Slab,RC Column,Castinsitu,G40,,m3,3006.6
+376,Superstructure,Frame and Slab,Steel Column,EN 10025 S275,5,,kg,1851.5
+377,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,5,,kg,4134.2
+378,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,5,,kg,191.012
+379,Substructure,Foundation,Wall Footing,G30,,,m3,9229.4
+380,Superstructure,Frame and Slab,RC Beam,Castinsitu,G40,80%,m3,4368.94
+381,Substructure,Piling,Permamnent Pile,Spun Pile,35,200 mm,Nos,8950.061
+382,Substructure,Foundation,Wall Footing,G30,,,m3,5305.52
+383,Substructure,Piling,Permamnent Pile,Bored Pile,G30,400,Nos,1651.299
+384,Substructure,Foundation,Wall Footing,G40,,,m3,4709.99
+385,Superstructure,Frame and Slab,RC Column,Precast,G40,,m3,4396.0
+386,Substructure,Foundation,Column Base,35,,,m3,3987.0
+387,Superstructure,Frame and Slab,RC Column,Cast in-situ,G40,,m3,505.8
+388,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G30,,m3,5939.8
+389,Superstructure,Frame and Slab,RC Column,Precast,35,,m3,4961.192
+390,Superstructure,Frame and Slab,Steel Column,S355,5,,kg,3886.713
+391,Superstructure,Frame and Slab,RC Slab,Precast,G30,,m3,9849.418
+392,Substructure,Foundation,Substructure Beam,35,,,m3,6893.501
+393,Substructure,Foundation,Pile Cap,G40,,,m3,3341.0
+394,Substructure,Foundation,Pile Cap,G30,,,m3,7798.0
+395,Substructure,Piling,Permamnent Pile,Spun Pile,G40,350mm,Nos,3880.211
+396,Substructure,Piling,Permamnent Pile,Bored Pile,G30,400,Nos,5267.8
+397,Superstructure,Frame and Slab,Steel Beam,S355,5,,kg,3855.0
+398,Substructure,Foundation,Substructure Column,G30,,,m3,9655.5
+399,Superstructure,Frame and Slab,Steel Column,EN 10025 S275,152 x 152 x 23 UC,,kg,3756.42
+400,Superstructure,Frame and Slab,RC Slab,Precast,G30,,m3,4662.98
+401,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,5,,kg,7465.89
+402,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,35,Planter Wall,m3,3930.7
+403,Substructure,Piling,Permamnent Pile,Micro Pile,35,400,Nos,1287.0
+404,Superstructure,Frame and Slab,Structural Wall,Precast,35,Planter Wall,m3,2728.6
+405,Substructure,Foundation,Pile Cap,G40,,,m3,4450.0
+406,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,1165.164
+407,Substructure,Piling,Permamnent Pile,Spun Pile,G30,400,Nos,5462.78
+408,Substructure,Piling,Permamnent Pile,Bored Pile,G40,350mm,Nos,7105.0
+409,Substructure,Piling,Permamnent Pile,Micro Pile,G40,200 mm,Nos,937.9
+410,Substructure,Piling,Permamnent Pile,Micro Pile,35,350mm,Nos,3181.3
+411,Substructure,Foundation,Substructure Column,G30,,,m3,7474.4
+412,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,G30,Planter Wall,m3,2109.6
+413,Substructure,Piling,Permamnent Pile,Micro Pile,G30,200 mm,Nos,8380.5
+414,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G40,,m3,5026.2
+415,Superstructure,Frame and Slab,RC Column,Precast,G30,,m3,7800.57
+416,Substructure,Foundation,Column Base,35,,,m3,1921.8
+417,Superstructure,Frame and Slab,RC Staircase,Precast,35,,m3,7393.463
+418,Substructure,Piling,Permamnent Pile,Bored Pile,G40,400,Nos,1876.0
+419,Substructure,Piling,Permamnent Pile,Bored Pile,G40,400,Nos,3997.53
+420,Substructure,Piling,Permamnent Pile,Micro Pile,35,400,Nos,8430.94
+421,Substructure,Piling,Permamnent Pile,Bored Pile,35,350mm,Nos,2249.375
+422,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,35,,m3,33.0
+423,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,G40,Ramp Wall,m3,7355.97
+424,Substructure,Foundation,Column Base,35,,,m3,1861.9
+425,Substructure,Foundation,Substructure Column,G40,,,m3,116.5
+426,Substructure,Foundation,Raft Footing,35,,,m3,9652.82
+427,Substructure,Piling,Permamnent Pile,Micro Pile,G30,350mm,Nos,6044.4
+428,Superstructure,Frame and Slab,Steel Column,S355,5,,kg,9374.6
+429,Substructure,Piling,Permamnent Pile,Spun Pile,35,400,Nos,2518.2
+430,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,8011.62
+431,Substructure,Foundation,Raft Footing,G30,,,m3,1998.545
+432,Superstructure,Frame and Slab,RC Column,Cast in-situ,G40,,m3,7715.8
+433,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,35,,m3,6202.65
+434,Superstructure,Frame and Slab,RC Beam,Castinsitu,35,No,m3,6862.176
+435,Superstructure,Frame and Slab,RC Beam,Cast in-situ,35,"Yes,1:35",m3,9475.87
+436,Superstructure,Frame and Slab,RC Staircase,Castinsitu,G30,,m3,4890.972
+437,Substructure,Piling,Permamnent Pile,Bored Pile,G40,400,Nos,914.03
+438,Superstructure,Frame and Slab,Steel Staircase,BS4360 Grade 43A,5,,kg,4201.5
+439,Superstructure,Frame and Slab,RC Slab,Precast,G40,,m3,5072.421
+440,Superstructure,Frame and Slab,RC Staircase,Castinsitu,G40,,m3,8340.0
+441,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G30,,m3,622.43
+442,Superstructure,Frame and Slab,Steel Staircase,S355,152 x 152 x 23 UC,,kg,3413.67
+443,Superstructure,Frame and Slab,RC Beam,Castinsitu,G40,0.8,m3,791.0
+444,Substructure,Foundation,Wall Footing,35,,,m3,4145.7
+445,Superstructure,Frame and Slab,Structural Wall,Castinsitu,35,Parapet Wall,m3,6380.797
+446,Substructure,Foundation,Substructure Column,G30,,,m3,7034.94
+447,Substructure,Piling,Permamnent Pile,Micro Pile,35,350mm,Nos,4192.99
+448,Superstructure,Frame and Slab,Steel Beam,S355,5,,kg,2259.5
+449,Substructure,Piling,Permamnent Pile,Micro Pile,35,350mm,Nos,9312.965
+450,Substructure,Foundation,Substructure Wall,G30,,,m3,2217.773
+451,Substructure,Foundation,Substructure Beam,G40,,,m3,4814.0
+452,Superstructure,Frame and Slab,RC Slab,Castinsitu,35,,m3,9162.418
+453,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,9894.261
+454,Substructure,Foundation,Column Base,G30,,,m3,470.12
+455,Superstructure,Frame and Slab,RC Staircase,Castinsitu,G30,,m3,3735.07
+456,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,333.234
+457,Superstructure,Frame and Slab,Structural Wall,Precast,G30,Planter Wall,m3,6161.0
+458,Substructure,Foundation,Substructure Wall,35,,,m3,9118.7
+459,Substructure,Piling,Permamnent Pile,Bored Pile,35,350mm,Nos,7406.36
+460,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,G40,Parapet Wall,m3,1583.124
+461,Substructure,Piling,Permamnent Pile,Bored Pile,G40,200 mm,Nos,3231.18
+462,Superstructure,Frame and Slab,RC Beam,Precast,35,,m3,4848.9
+463,Substructure,Foundation,Raft Footing,G40,,,m3,1380.0
+464,Substructure,Foundation,Wall Footing,G30,,,m3,4401.8
+465,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,152 x 152 x 23 UC,,kg,2758.0
+466,Substructure,Piling,Permamnent Pile,Bored Pile,G40,350mm,Nos,7783.0
+467,Superstructure,Frame and Slab,RC Slab,Cast in-situ,35,,m3,6725.0
+468,Superstructure,Frame and Slab,Structural Wall,Castinsitu,35,Planter Wall,m3,2790.56
+469,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,5,,kg,3777.85
+470,Superstructure,Frame and Slab,RC Beam,Castinsitu,G30,No,m3,7794.0
+471,Superstructure,Frame and Slab,RC Staircase,Precast,G30,,m3,3779.0
+472,Substructure,Foundation,Raft Footing,35,,,m3,2151.6
+473,Substructure,Piling,Permamnent Pile,Micro Pile,35,350mm,Nos,4478.837
+474,Superstructure,Frame and Slab,Steel Column,S355,5,,kg,2793.6
+475,Substructure,Piling,Permamnent Pile,Micro Pile,G40,400,Nos,5648.853
+476,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G30,,m3,9810.3
+477,Superstructure,Frame and Slab,RC Beam,Cast in-situ,35,No,m3,9874.0
+478,Superstructure,Frame and Slab,Structural Wall,Castinsitu,G40,Planter Wall,m3,2543.08
+479,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,152 x 152 x 23 UC,,kg,7768.85
+480,Substructure,Piling,Permamnent Pile,Micro Pile,35,200 mm,Nos,1645.524
+481,Substructure,Foundation,Pile Cap,G40,,,m3,435.99
+482,Substructure,Piling,Permamnent Pile,Spun Pile,35,350mm,Nos,4906.0
+483,Substructure,Foundation,Substructure Column,35,,,m3,708.7
+484,Superstructure,Frame and Slab,RC Column,Cast in-situ,G40,,m3,1056.0
+485,Superstructure,Frame and Slab,RC Slab,Precast,35,,m3,4900.1
+486,Substructure,Foundation,Column Base,G40,,,m3,2211.25
+487,Substructure,Foundation,Pile Cap,G40,,,m3,4138.084
+488,Substructure,Foundation,Raft Footing,35,,,m3,2579.753
+489,Superstructure,Frame and Slab,RC Slab,Cast in-situ,35,,m3,5913.6
+490,Superstructure,Frame and Slab,RC Beam,Cast in-situ,G30,80%,m3,6518.16
+491,Substructure,Foundation,Substructure Wall,G40,,,m3,2190.6
+492,Substructure,Piling,Permamnent Pile,Micro Pile,G40,350mm,Nos,4076.3
+493,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,5,,kg,2860.747
+494,Substructure,Foundation,Column Base,35,,,m3,2121.504
+495,Superstructure,Frame and Slab,RC Staircase,Precast,G40,,m3,6620.0
+496,Substructure,Piling,Permamnent Pile,Spun Pile,35,200 mm,Nos,435.97
+497,Superstructure,Frame and Slab,RC Beam,Castinsitu,G40,0.8,m3,3943.8
+498,Substructure,Piling,Permamnent Pile,Spun Pile,35,350mm,Nos,4250.74
+499,Substructure,Foundation,Substructure Beam,35,,,m3,8695.0
+500,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G40,,m3,9209.346
+501,Substructure,Piling,Permamnent Pile,Spun Pile,G40,400,Nos,8429.5
+502,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,5,,kg,1247.34
+503,Superstructure,Frame and Slab,RC Slab,Castinsitu,G40,,m3,7413.0
+504,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G40,,m3,3842.0
+505,Superstructure,Frame and Slab,RC Beam,Castinsitu,35,0.8,m3,2862.75
+506,Superstructure,Frame and Slab,RC Column,Castinsitu,G40,,m3,6482.7
+507,Superstructure,Frame and Slab,Structural Wall,Castinsitu,35,Lift Core Wall,m3,5299.0
+508,Substructure,Foundation,Substructure Wall,35,,,m3,7695.0
+509,Superstructure,Frame and Slab,Structural Wall,Castinsitu,G30,Lift Core Wall,m3,5014.9
+510,Substructure,Piling,Permamnent Pile,Bored Pile,G30,400,Nos,6835.7
+511,Superstructure,Frame and Slab,Steel Column,EN 10025 S275,152 x 152 x 23 UC,,kg,4004.94
+512,Substructure,Piling,Permamnent Pile,Micro Pile,G40,350mm,Nos,5857.72
+513,Substructure,Foundation,Substrcture Slab,G40,,,m3,1907.0
+514,Substructure,Foundation,Column Base,G30,,,m3,9308.7
+515,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,152 x 152 x 23 UC,,kg,4502.3
+516,Substructure,Foundation,Substructure Beam,35,,,m3,8645.5
+517,Substructure,Piling,Permamnent Pile,Bored Pile,35,350mm,Nos,8369.0
+518,Substructure,Foundation,Substructure Column,G30,,,m3,2767.63
+519,Substructure,Piling,Permamnent Pile,Spun Pile,35,350mm,Nos,235.106
+520,Substructure,Foundation,Column Base,G40,,,m3,6588.02
+521,Substructure,Foundation,Substructure Column,G30,,,m3,5723.89
+522,Substructure,Piling,Permamnent Pile,Spun Pile,G40,350mm,Nos,7667.1
+523,Substructure,Foundation,Raft Footing,G30,,,m3,5004.06
+524,Superstructure,Frame and Slab,RC Staircase,Precast,G30,,m3,1750.12
+525,Superstructure,Frame and Slab,RC Staircase,Precast,G40,,m3,6924.279
+526,Substructure,Piling,Permamnent Pile,Micro Pile,G30,400,Nos,627.822
+527,Superstructure,Frame and Slab,RC Slab,Precast,G30,,m3,2009.441
+528,Substructure,Foundation,Substructure Wall,G30,,,m3,4242.4
+529,Substructure,Foundation,Raft Footing,G40,,,m3,3137.1
+530,Substructure,Piling,Permamnent Pile,Bored Pile,G40,350mm,Nos,4030.0
+531,Substructure,Piling,Permamnent Pile,Micro Pile,G40,200 mm,Nos,4870.93
+532,Substructure,Piling,Permamnent Pile,Spun Pile,G30,200 mm,Nos,4555.0
+533,Superstructure,Frame and Slab,RC Slab,Precast,G40,,m3,7377.5
+534,Superstructure,Frame and Slab,Steel Column,S355,5,,kg,8209.05
+535,Substructure,Piling,Permamnent Pile,Micro Pile,35,400,Nos,4759.5
+536,Superstructure,Frame and Slab,RC Staircase,Precast,G30,,m3,605.6
+537,Substructure,Piling,Permamnent Pile,Spun Pile,35,350mm,Nos,1356.1
+538,Substructure,Foundation,Pile Cap,G40,,,m3,7649.3
+539,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G30,,m3,5596.621
+540,Superstructure,Frame and Slab,RC Beam,Cast in-situ,35,,m3,712.0
+541,Superstructure,Frame and Slab,RC Staircase,Precast,G30,,m3,2771.06
+542,Superstructure,Frame and Slab,RC Column,Cast in-situ,G30,,m3,7336.3
+543,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,G40,Lift Core Wall,m3,7355.0
+544,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,152 x 152 x 23 UC,,kg,5727.4
+545,Substructure,Piling,Permamnent Pile,Spun Pile,35,200 mm,Nos,9772.0
+546,Superstructure,Frame and Slab,RC Slab,Precast,G40,,m3,1727.0
+547,Substructure,Piling,Permamnent Pile,Bored Pile,G40,200 mm,Nos,6211.598
+548,Substructure,Foundation,Substructure Column,G40,,,m3,6467.7
+549,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,8036.3
+550,Superstructure,Frame and Slab,Steel Beam,S355,152 x 152 x 23 UC,,kg,4753.83
+551,Superstructure,Frame and Slab,Structural Wall,Precast,G40,Lift Core Wall,m3,5346.0
+552,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,5,,kg,6733.415
+553,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,152 x 152 x 23 UC,,kg,4465.565
+554,Substructure,Piling,Permamnent Pile,Micro Pile,G40,350mm,Nos,811.0
+555,Substructure,Piling,Permamnent Pile,Bored Pile,G40,200 mm,Nos,1862.4
+556,Superstructure,Frame and Slab,Structural Wall,Castinsitu,35,Planter Wall,m3,2700.0
+557,Superstructure,Frame and Slab,Steel Staircase,BS4360 Grade 43A,5,,kg,728.311
+558,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G40,,m3,6954.425
+559,Superstructure,Frame and Slab,Steel Staircase,S355,5,,kg,7123.5
+560,Substructure,Piling,Permamnent Pile,Micro Pile,35,400,Nos,978.0
+561,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G40,,m3,6467.63
+562,Superstructure,Frame and Slab,RC Staircase,Castinsitu,G40,,m3,4541.1
+563,Superstructure,Frame and Slab,RC Column,Cast in-situ,G40,,m3,2981.21
+564,Substructure,Foundation,Wall Footing,G40,,,m3,7211.665
+565,Substructure,Foundation,Column Base,G40,,,m3,2875.3
+566,Substructure,Foundation,Substructure Beam,G40,,,m3,5547.604
+567,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G40,,m3,6572.52
+568,Substructure,Foundation,Substructure Column,G40,,,m3,2965.0
+569,Superstructure,Frame and Slab,RC Slab,Cast in-situ,35,,m3,3342.25
+570,Substructure,Foundation,Substructure Column,35,,,m3,985.0
+571,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,G40,Ramp Wall,m3,2086.425
+572,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G40,,m3,2114.11
+573,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,1642.52
+574,Substructure,Foundation,Substrcture Slab,35,,,m3,8568.0
+575,Substructure,Foundation,Wall Footing,G30,,,m3,4963.0
+576,Substructure,Piling,Permamnent Pile,Bored Pile,G30,350mm,Nos,3945.0
+577,Superstructure,Frame and Slab,Steel Staircase,BS4360 Grade 43A,5,,kg,9044.036
+578,Substructure,Piling,Permamnent Pile,Bored Pile,G40,400,Nos,1873.157
+579,Substructure,Piling,Permamnent Pile,Micro Pile,G30,350mm,Nos,7341.8
+580,Substructure,Piling,Permamnent Pile,Spun Pile,G30,350mm,Nos,809.8
+581,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G30,,m3,8270.666
+582,Substructure,Foundation,Wall Footing,G30,,,m3,2786.53
+583,Superstructure,Frame and Slab,RC Slab,Precast,G40,,m3,7802.37
+584,Substructure,Foundation,Raft Footing,G30,,,m3,2315.0
+585,Superstructure,Frame and Slab,Structural Wall,Precast,G40,Planter Wall,m3,3858.0
+586,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G30,,m3,3906.397
+587,Substructure,Piling,Permamnent Pile,Bored Pile,35,200 mm,Nos,1853.6
+588,Substructure,Piling,Permamnent Pile,Bored Pile,35,200 mm,Nos,3343.79
+589,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G40,,m3,3475.0
+590,Superstructure,Frame and Slab,RC Slab,Precast,35,,m3,9195.21
+591,Superstructure,Frame and Slab,Steel Staircase,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,9118.96
+592,Substructure,Foundation,Column Base,G30,,,m3,3344.0
+593,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G30,,m3,2662.0
+594,Substructure,Piling,Permamnent Pile,Spun Pile,G30,400,Nos,1797.69
+595,Substructure,Piling,Permamnent Pile,Micro Pile,G40,200 mm,Nos,28.8
+596,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G40,,m3,4835.604
+597,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G30,,m3,402.03
+598,Substructure,Foundation,Substructure Wall,G30,,,m3,8664.64
+599,Substructure,Piling,Permamnent Pile,Spun Pile,35,400,Nos,1123.6
+600,Substructure,Piling,Permamnent Pile,Bored Pile,35,200 mm,Nos,4648.0
+601,Substructure,Piling,Permamnent Pile,Micro Pile,35,400,Nos,1030.24
+602,Superstructure,Frame and Slab,Steel Beam,S355,5,,kg,8000.586
+603,Substructure,Piling,Permamnent Pile,Bored Pile,35,200 mm,Nos,6490.4
+604,Superstructure,Frame and Slab,RC Column,Precast,G40,,m3,5211.0
+605,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,152 x 152 x 23 UC,,kg,7570.0
+606,Superstructure,Frame and Slab,RC Staircase,Precast,35,,m3,5062.24
+607,Superstructure,Frame and Slab,RC Beam,Castinsitu,35,80%,m3,7181.412
+608,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G40,,m3,4820.3
+609,Substructure,Foundation,Wall Footing,G40,,,m3,2126.557
+610,Superstructure,Frame and Slab,Steel Staircase,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,7312.2
+611,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,9588.8
+612,Substructure,Piling,Permamnent Pile,Bored Pile,G40,400,Nos,8492.0
+613,Superstructure,Frame and Slab,RC Beam,Cast in-situ,G40,80%,m3,2762.857
+614,Superstructure,Frame and Slab,Steel Staircase,BS4360 Grade 43A,5,,kg,7161.063
+615,Substructure,Piling,Permamnent Pile,Spun Pile,G40,200 mm,Nos,8548.1
+616,Superstructure,Frame and Slab,RC Column,Castinsitu,G40,,m3,7675.842
+617,Superstructure,Frame and Slab,Steel Staircase,S355,152 x 152 x 23 UC,,kg,6374.0
+618,Superstructure,Frame and Slab,RC Column,Castinsitu,G40,,m3,784.92
+619,Substructure,Foundation,Substructure Beam,G30,,,m3,5487.9
+620,Substructure,Foundation,Wall Footing,G40,,,m3,9140.2
+621,Substructure,Foundation,Substrcture Slab,G40,,,m3,7781.939
+622,Substructure,Foundation,Pile Cap,G30,,,m3,1442.574
+623,Superstructure,Frame and Slab,RC Staircase,Castinsitu,G30,,m3,6211.363
+624,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,152 x 152 x 23 UC,,kg,1064.0
+625,Substructure,Foundation,Substructure Beam,35,,,m3,9317.016
+626,Substructure,Foundation,Substructure Wall,G40,,,m3,5269.0
+627,Substructure,Foundation,Column Base,G40,,,m3,8922.0
+628,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,1092.36
+629,Substructure,Piling,Permamnent Pile,Micro Pile,35,200 mm,Nos,5162.66
+630,Substructure,Piling,Permamnent Pile,Bored Pile,G40,200 mm,Nos,9191.72
+631,Superstructure,Frame and Slab,Steel Staircase,S355,5,,kg,5764.0
+632,Superstructure,Frame and Slab,RC Beam,Cast in-situ,G40,0.8,m3,4859.2
+633,Substructure,Piling,Permamnent Pile,Micro Pile,35,400,Nos,6570.1
+634,Substructure,Piling,Permamnent Pile,Spun Pile,G40,400,Nos,54.9
+635,Superstructure,Frame and Slab,RC Staircase,Castinsitu,G30,,m3,3654.2
+636,Superstructure,Frame and Slab,RC Slab,Castinsitu,35,,m3,1134.0
+637,Superstructure,Frame and Slab,Structural Wall,Precast,G40,Lift Core Wall,m3,1050.8
+638,Substructure,Foundation,Raft Footing,G40,,,m3,3610.723
+639,Substructure,Piling,Permamnent Pile,Bored Pile,G40,350mm,Nos,8875.766
+640,Superstructure,Frame and Slab,Structural Wall,Castinsitu,G30,Parapet Wall,m3,7163.395
+641,Substructure,Foundation,Substructure Wall,35,,,m3,2704.0
+642,Substructure,Foundation,Column Base,35,,,m3,797.609
+643,Superstructure,Frame and Slab,RC Beam,Precast,G30,0.8,m3,8667.8
+644,Substructure,Foundation,Substrcture Slab,35,,,m3,478.01
+645,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,G40,Planter Wall,m3,6256.08
+646,Superstructure,Frame and Slab,RC Slab,Precast,G40,,m3,308.25
+647,Substructure,Foundation,Substrcture Slab,G30,,,m3,9280.6
+648,Superstructure,Frame and Slab,RC Slab,Precast,G40,,m3,3009.8
+649,Substructure,Piling,Permamnent Pile,Bored Pile,G40,200 mm,Nos,1691.0
+650,Superstructure,Frame and Slab,RC Column,Cast in-situ,35,,m3,5515.0
+651,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,9244.84
+652,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,2614.9
+653,Substructure,Foundation,Substructure Wall,35,,,m3,4181.0
+654,Substructure,Foundation,Substructure Wall,G40,,,m3,3456.5
+655,Substructure,Piling,Permamnent Pile,Spun Pile,G40,350mm,Nos,3443.0
+656,Substructure,Foundation,Pile Cap,35,,,m3,5574.0
+657,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,35,,m3,7987.8
+658,Substructure,Foundation,Pile Cap,35,,,m3,2739.01
+659,Substructure,Foundation,Raft Footing,35,,,m3,4392.2
+660,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,5,,kg,5100.17
+661,Substructure,Foundation,Column Base,35,,,m3,8293.13
+662,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,4043.952
+663,Superstructure,Frame and Slab,RC Column,Castinsitu,G40,,m3,2273.823
+664,Superstructure,Frame and Slab,Steel Column,EN 10025 S275,5,,kg,8905.657
+665,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,5,,kg,9728.1
+666,Substructure,Piling,Permamnent Pile,Micro Pile,G30,400,Nos,9177.2
+667,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,1305.71
+668,Superstructure,Frame and Slab,RC Column,Castinsitu,G30,,m3,8465.689
+669,Substructure,Piling,Permamnent Pile,Bored Pile,35,400,Nos,9056.35
+670,Superstructure,Frame and Slab,RC Slab,Cast in-situ,35,,m3,908.0
+671,Superstructure,Frame and Slab,Steel Staircase,S355,152 x 152 x 23 UC,,kg,5724.0
+672,Superstructure,Frame and Slab,RC Beam,Cast in-situ,G30,No,m3,7116.5
+673,Superstructure,Frame and Slab,RC Column,Castinsitu,G30,,m3,2041.2
+674,Superstructure,Frame and Slab,RC Beam,Cast in-situ,G40,0.8,m3,9448.2
+675,Substructure,Foundation,Wall Footing,G30,,,m3,4997.01
+676,Superstructure,Frame and Slab,RC Column,Precast,35,,m3,4858.7
+677,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G40,,m3,7373.2
+678,Substructure,Piling,Permamnent Pile,Bored Pile,G30,200 mm,Nos,5413.54
+679,Substructure,Foundation,Wall Footing,G40,,,m3,2356.0
+680,Superstructure,Frame and Slab,RC Column,Castinsitu,35,,m3,2015.747
+681,Superstructure,Frame and Slab,RC Beam,Cast in-situ,G30,,m3,4345.23
+682,Superstructure,Frame and Slab,RC Slab,Cast in-situ,35,,m3,7570.6
+683,Substructure,Foundation,Substructure Wall,G30,,,m3,1050.57
+684,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,5,,kg,7134.4
+685,Substructure,Piling,Permamnent Pile,Micro Pile,35,350mm,Nos,4021.0
+686,Substructure,Foundation,Substructure Beam,35,,,m3,1051.057
+687,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,5,,kg,9180.6
+688,Substructure,Piling,Permamnent Pile,Spun Pile,G40,350mm,Nos,3150.0
+689,Superstructure,Frame and Slab,RC Slab,Castinsitu,35,,m3,4753.28
+690,Substructure,Foundation,Substructure Beam,35,,,m3,8626.0
+691,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,5,,kg,5615.0
+692,Substructure,Piling,Permamnent Pile,Spun Pile,35,200 mm,Nos,2405.8
+693,Substructure,Piling,Permamnent Pile,Micro Pile,G40,200 mm,Nos,9209.74
+694,Superstructure,Frame and Slab,Steel Column,EN 10025 S275,152 x 152 x 23 UC,,kg,5635.5
+695,Superstructure,Frame and Slab,RC Beam,Precast,G30,,m3,8525.4
+696,Superstructure,Frame and Slab,RC Beam,Castinsitu,35,,m3,8987.3
+697,Substructure,Foundation,Substrcture Slab,G30,,,m3,4798.0
+698,Superstructure,Frame and Slab,RC Staircase,Precast,G40,,m3,1179.0
+699,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,5,,kg,1215.0
+700,Substructure,Foundation,Column Base,G30,,,m3,7992.0
+701,Substructure,Piling,Permamnent Pile,Micro Pile,G40,400,Nos,9451.5
+702,Substructure,Foundation,Column Base,G40,,,m3,8584.464
+703,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,G40,Lift Core Wall,m3,9831.95
+704,Substructure,Piling,Permamnent Pile,Spun Pile,G30,400,Nos,3107.0
+705,Substructure,Foundation,Substrcture Slab,G40,,,m3,7636.9
+706,Substructure,Piling,Permamnent Pile,Spun Pile,G40,400,Nos,7660.113
+707,Substructure,Foundation,Substructure Column,35,,,m3,1329.0
+708,Superstructure,Frame and Slab,RC Column,Cast in-situ,35,,m3,30.94
+709,Superstructure,Frame and Slab,RC Slab,Precast,G40,,m3,6175.0
+710,Superstructure,Frame and Slab,Steel Column,EN 10025 S275,152 x 152 x 23 UC,,kg,8617.0
+711,Substructure,Foundation,Wall Footing,G40,,,m3,4875.83
+712,Substructure,Piling,Permamnent Pile,Spun Pile,G40,400,Nos,8071.59
+713,Superstructure,Frame and Slab,RC Staircase,Castinsitu,35,,m3,9913.0
+714,Substructure,Foundation,Raft Footing,35,,,m3,9890.664
+715,Substructure,Foundation,Substructure Wall,35,,,m3,3551.0
+716,Substructure,Piling,Permamnent Pile,Bored Pile,35,200 mm,Nos,1864.3
+717,Substructure,Foundation,Column Base,G30,,,m3,6785.169
+718,Substructure,Piling,Permamnent Pile,Micro Pile,G40,200 mm,Nos,5876.7
+719,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,5,,kg,2785.35
+720,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,8545.8
+721,Superstructure,Frame and Slab,RC Slab,Castinsitu,G40,,m3,2258.631
+722,Substructure,Foundation,Substrcture Slab,G30,,,m3,3891.03
+723,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,152 x 152 x 23 UC,,kg,1900.22
+724,Superstructure,Frame and Slab,RC Slab,Precast,35,,m3,969.999
+725,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,152 x 152 x 23 UC,,kg,7517.46
+726,Superstructure,Frame and Slab,RC Slab,Castinsitu,G40,,m3,9253.0
+727,Substructure,Foundation,Substructure Wall,G40,,,m3,515.0
+728,Substructure,Foundation,Substructure Wall,G40,,,m3,8264.0
+729,Substructure,Piling,Permamnent Pile,Spun Pile,35,200 mm,Nos,3155.0
+730,Superstructure,Frame and Slab,RC Staircase,Castinsitu,G40,,m3,4568.0
+731,Superstructure,Frame and Slab,Steel Beam,S355,152 x 152 x 23 UC,,kg,9801.84
+732,Substructure,Piling,Permamnent Pile,Bored Pile,G40,400,Nos,3953.238
+733,Superstructure,Frame and Slab,RC Slab,Precast,G30,,m3,9686.43
+734,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,6544.0
+735,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G40,,m3,299.7
+736,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,5,,kg,6635.7
+737,Superstructure,Frame and Slab,RC Slab,Castinsitu,35,,m3,7869.15
+738,Superstructure,Frame and Slab,RC Slab,Castinsitu,35,,m3,8299.4
+739,Superstructure,Frame and Slab,RC Column,Precast,35,,m3,9266.535
+740,Substructure,Foundation,Pile Cap,35,,,m3,6818.875
+741,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G40,,m3,3739.31
+742,Substructure,Foundation,Raft Footing,G40,,,m3,7306.48
+743,Substructure,Piling,Permamnent Pile,Micro Pile,G30,400,Nos,5035.0
+744,Substructure,Foundation,Column Base,G40,,,m3,8373.8
+745,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,35,Lift Core Wall,m3,2810.1
+746,Substructure,Foundation,Wall Footing,35,,,m3,9169.0
+747,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,3603.2
+748,Superstructure,Frame and Slab,Steel Staircase,S355,152 x 152 x 23 UC,,kg,9514.21
+749,Superstructure,Frame and Slab,RC Column,Precast,G40,,m3,1699.45
+750,Substructure,Piling,Permamnent Pile,Micro Pile,35,400,Nos,8699.36
+751,Superstructure,Frame and Slab,RC Slab,Castinsitu,G40,,m3,1448.0
+752,Superstructure,Frame and Slab,Steel Beam,S355,152 x 152 x 23 UC,,kg,3145.287
+753,Superstructure,Frame and Slab,RC Slab,Precast,G30,,m3,7764.9
+754,Substructure,Foundation,Raft Footing,G40,,,m3,1480.95
+755,Substructure,Foundation,Pile Cap,35,,,m3,5615.8
+756,Substructure,Foundation,Substructure Column,35,,,m3,4985.0
+757,Superstructure,Frame and Slab,Structural Wall,Castinsitu,G40,Ramp Wall,m3,7918.35
+758,Substructure,Foundation,Pile Cap,35,,,m3,6579.075
+759,Superstructure,Frame and Slab,RC Staircase,Castinsitu,G30,,m3,1505.1
+760,Substructure,Piling,Permamnent Pile,Spun Pile,G30,350mm,Nos,5264.11
+761,Superstructure,Frame and Slab,Steel Column,EN 10025 S275,5,,kg,4223.399
+762,Superstructure,Frame and Slab,RC Beam,Precast,G40,80%,m3,380.7
+763,Superstructure,Frame and Slab,Structural Wall,Precast,G40,Lift Core Wall,m3,4160.416
+764,Substructure,Piling,Permamnent Pile,Bored Pile,G40,350mm,Nos,289.463
+765,Superstructure,Frame and Slab,RC Beam,Precast,G30,80%,m3,6252.9
+766,Substructure,Foundation,Substructure Wall,G40,,,m3,2643.1
+767,Substructure,Foundation,Substructure Column,35,,,m3,563.35
+768,Superstructure,Frame and Slab,RC Slab,Precast,G40,,m3,795.9
+769,Superstructure,Frame and Slab,Steel Column,EN 10025 S275,5,,kg,1012.27
+770,Substructure,Foundation,Substrcture Slab,G40,,,m3,6361.1
+771,Substructure,Foundation,Pile Cap,G40,,,m3,4094.0
+772,Substructure,Foundation,Substructure Beam,35,,,m3,9906.0
+773,Substructure,Piling,Permamnent Pile,Micro Pile,35,400,Nos,595.838
+774,Superstructure,Frame and Slab,Steel Staircase,S355,152 x 152 x 23 UC,,kg,8179.949
+775,Substructure,Foundation,Column Base,G30,,,m3,766.7
+776,Substructure,Piling,Permamnent Pile,Micro Pile,G40,350mm,Nos,1225.0
+777,Superstructure,Frame and Slab,Steel Beam,S355,152 x 152 x 23 UC,,kg,2425.8
+778,Substructure,Piling,Permamnent Pile,Micro Pile,35,400,Nos,4202.0
+779,Substructure,Foundation,Wall Footing,G30,,,m3,6330.0
+780,Substructure,Piling,Permamnent Pile,Micro Pile,35,200 mm,Nos,8070.2
+781,Substructure,Foundation,Pile Cap,G40,,,m3,1289.0
+782,Substructure,Foundation,Substructure Column,35,,,m3,5386.6
+783,Substructure,Piling,Permamnent Pile,Spun Pile,35,400,Nos,3761.0
+784,Superstructure,Frame and Slab,Steel Column,S355,152 x 152 x 23 UC,,kg,820.84
+785,Superstructure,Frame and Slab,Steel Column,S355,152 x 152 x 23 UC,,kg,343.11
+786,Substructure,Foundation,Raft Footing,35,,,m3,96.496
+787,Substructure,Piling,Permamnent Pile,Spun Pile,G40,350mm,Nos,1488.9
+788,Superstructure,Frame and Slab,RC Staircase,Precast,G40,,m3,713.95
+789,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,152 x 152 x 23 UC,,kg,4580.74
+790,Superstructure,Frame and Slab,RC Staircase,Castinsitu,G40,,m3,2461.821
+791,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,263.65
+792,Substructure,Foundation,Substrcture Slab,35,,,m3,1000.7
+793,Superstructure,Frame and Slab,RC Slab,Castinsitu,G40,,m3,8789.3
+794,Substructure,Foundation,Pile Cap,35,,,m3,1204.9
+795,Substructure,Piling,Permamnent Pile,Micro Pile,G40,200 mm,Nos,6338.384
+796,Substructure,Foundation,Substrcture Slab,G40,,,m3,6743.66
+797,Substructure,Piling,Permamnent Pile,Spun Pile,35,350mm,Nos,8248.4
+798,Substructure,Foundation,Substructure Column,35,,,m3,2460.7
+799,Substructure,Piling,Permamnent Pile,Micro Pile,G30,400,Nos,3997.5
+800,Substructure,Foundation,Substructure Column,G30,,,m3,467.0
+801,Substructure,Foundation,Substructure Beam,G40,,,m3,7214.339
+802,Superstructure,Frame and Slab,RC Beam,Castinsitu,G40,80%,m3,7933.816
+803,Superstructure,Frame and Slab,Steel Staircase,S355,152 x 152 x 23 UC,,kg,8927.0
+804,Superstructure,Frame and Slab,RC Column,Cast in-situ,G40,,m3,8567.41
+805,Substructure,Foundation,Column Base,G40,,,m3,2271.0
+806,Substructure,Foundation,Substrcture Slab,G40,,,m3,7555.0
+807,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G40,,m3,1387.32
+808,Substructure,Foundation,Substrcture Slab,G40,,,m3,3559.025
+809,Substructure,Foundation,Wall Footing,G30,,,m3,9066.7
+810,Superstructure,Frame and Slab,RC Staircase,Precast,35,,m3,2724.0
+811,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,152 x 152 x 23 UC,,kg,3046.52
+812,Substructure,Foundation,Wall Footing,G30,,,m3,2346.15
+813,Substructure,Piling,Permamnent Pile,Bored Pile,G40,350mm,Nos,1747.49
+814,Superstructure,Frame and Slab,Structural Wall,Castinsitu,35,Parapet Wall,m3,3540.6
+815,Substructure,Piling,Permamnent Pile,Bored Pile,G40,350mm,Nos,1585.52
+816,Substructure,Foundation,Substructure Column,G30,,,m3,172.0
+817,Substructure,Piling,Permamnent Pile,Spun Pile,G30,350mm,Nos,7369.0
+818,Substructure,Foundation,Column Base,35,,,m3,2872.45
+819,Substructure,Piling,Permamnent Pile,Bored Pile,G40,400,Nos,8813.5
+820,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,9259.0
+821,Superstructure,Frame and Slab,RC Beam,Castinsitu,G30,0.8,m3,3097.237
+822,Substructure,Foundation,Wall Footing,G30,,,m3,5154.048
+823,Superstructure,Frame and Slab,RC Staircase,Precast,35,,m3,3681.815
+824,Substructure,Foundation,Substructure Wall,35,,,m3,7373.4
+825,Superstructure,Frame and Slab,RC Beam,Precast,G40,,m3,8688.562
+826,Superstructure,Frame and Slab,RC Column,Precast,35,,m3,3855.4
+827,Superstructure,Frame and Slab,RC Column,Castinsitu,G30,,m3,4133.0
+828,Superstructure,Frame and Slab,Structural Wall,Castinsitu,G40,Planter Wall,m3,525.7
+829,Superstructure,Frame and Slab,RC Column,Cast in-situ,G30,,m3,7427.6
+830,Substructure,Foundation,Substructure Column,G30,,,m3,2186.98
+831,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,4433.0
+832,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G30,,m3,4300.0
+833,Superstructure,Frame and Slab,RC Column,Cast in-situ,G30,,m3,3321.654
+834,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,5,,kg,954.1
+835,Superstructure,Frame and Slab,RC Staircase,Precast,35,,m3,9461.1
+836,Substructure,Foundation,Pile Cap,G40,,,m3,9946.8
+837,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G40,,m3,3910.009
+838,Superstructure,Frame and Slab,RC Beam,Cast in-situ,35,"Yes,1:35",m3,3487.0
+839,Substructure,Foundation,Column Base,35,,,m3,4175.0
+840,Substructure,Foundation,Substructure Column,G30,,,m3,8378.0
+841,Substructure,Piling,Permamnent Pile,Micro Pile,G30,400,Nos,8110.948
+842,Superstructure,Frame and Slab,RC Slab,Precast,G40,,m3,5216.2
+843,Superstructure,Frame and Slab,Steel Staircase,BS4360 Grade 43A,5,,kg,2643.919
+844,Superstructure,Frame and Slab,RC Beam,Precast,35,"Yes,1:35",m3,6769.386
+845,Substructure,Foundation,Column Base,G40,,,m3,2097.98
+846,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,G30,Lift Core Wall,m3,5074.0
+847,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G30,,m3,8273.893
+848,Superstructure,Frame and Slab,RC Slab,Precast,G30,,m3,8893.87
+849,Superstructure,Frame and Slab,RC Beam,Castinsitu,35,,m3,7586.3
+850,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,8219.9
+851,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G30,,m3,7524.07
+852,Substructure,Piling,Permamnent Pile,Bored Pile,G40,200 mm,Nos,1400.2
+853,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G30,,m3,648.5
+854,Substructure,Piling,Permamnent Pile,Spun Pile,G40,200 mm,Nos,5595.0
+855,Superstructure,Frame and Slab,RC Beam,Precast,G40,"Yes,1:35",m3,3568.872
+856,Substructure,Piling,Permamnent Pile,Micro Pile,35,200 mm,Nos,6755.6
+857,Superstructure,Frame and Slab,RC Beam,Precast,35,,m3,6788.0
+858,Substructure,Foundation,Substructure Beam,35,,,m3,9137.0
+859,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,4274.06
+860,Substructure,Piling,Permamnent Pile,Micro Pile,35,350mm,Nos,8968.8
+861,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,4774.036
+862,Superstructure,Frame and Slab,RC Staircase,Precast,G30,,m3,9200.259
+863,Superstructure,Frame and Slab,Steel Staircase,S355,152 x 152 x 23 UC,,kg,8835.6
+864,Superstructure,Frame and Slab,RC Slab,Castinsitu,35,,m3,384.0
+865,Substructure,Foundation,Raft Footing,G40,,,m3,5198.0
+866,Substructure,Piling,Permamnent Pile,Bored Pile,G40,400,Nos,7039.0
+867,Substructure,Foundation,Raft Footing,G40,,,m3,3720.487
+868,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,35,Ramp Wall,m3,5755.1
+869,Superstructure,Frame and Slab,RC Column,Precast,G40,,m3,3307.009
+870,Superstructure,Frame and Slab,RC Beam,Precast,G30,80%,m3,835.8
+871,Superstructure,Frame and Slab,Steel Beam,S355,5,,kg,1348.4
+872,Substructure,Piling,Permamnent Pile,Bored Pile,G30,200 mm,Nos,5530.89
+873,Substructure,Piling,Permamnent Pile,Spun Pile,G40,200 mm,Nos,2925.0
+874,Superstructure,Frame and Slab,Steel Staircase,BS4360 Grade 43A,5,,kg,8076.07
+875,Substructure,Foundation,Substructure Column,35,,,m3,2501.115
+876,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G40,,m3,6695.0
+877,Superstructure,Frame and Slab,Steel Column,S355,5,,kg,9251.157
+878,Substructure,Piling,Permamnent Pile,Bored Pile,G40,400,Nos,3278.4
+879,Substructure,Piling,Permamnent Pile,Bored Pile,G40,400,Nos,6529.482
+880,Substructure,Foundation,Column Base,G30,,,m3,9332.4
+881,Substructure,Foundation,Substructure Wall,G30,,,m3,4639.0
+882,Substructure,Piling,Permamnent Pile,Bored Pile,G40,350mm,Nos,5937.62
+883,Substructure,Foundation,Raft Footing,35,,,m3,9905.751
+884,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,5,,kg,5306.0
+885,Substructure,Foundation,Wall Footing,35,,,m3,4831.5
+886,Superstructure,Frame and Slab,RC Slab,Precast,G30,,m3,4208.25
+887,Substructure,Foundation,Substructure Wall,G40,,,m3,6193.324
+888,Superstructure,Frame and Slab,RC Slab,Castinsitu,G40,,m3,7788.0
+889,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,135.0
+890,Substructure,Foundation,Substrcture Slab,G40,,,m3,8216.647
+891,Substructure,Foundation,Pile Cap,35,,,m3,6514.916
+892,Substructure,Piling,Permamnent Pile,Micro Pile,G40,350mm,Nos,7875.7
+893,Substructure,Foundation,Wall Footing,35,,,m3,735.0
+894,Substructure,Foundation,Substructure Column,G40,,,m3,2900.01
+895,Substructure,Piling,Permamnent Pile,Spun Pile,G40,350mm,Nos,2922.3
+896,Substructure,Foundation,Substructure Column,G40,,,m3,2501.1
+897,Superstructure,Frame and Slab,Steel Staircase,BS4360 Grade 43A,5,,kg,7328.0
+898,Substructure,Piling,Permamnent Pile,Bored Pile,G40,350mm,Nos,9268.0
+899,Superstructure,Frame and Slab,RC Column,Castinsitu,G30,,m3,1947.488
+900,Superstructure,Frame and Slab,RC Staircase,Precast,35,,m3,1496.0
+901,Superstructure,Frame and Slab,RC Slab,Cast in-situ,35,,m3,9636.6
+902,Substructure,Foundation,Column Base,35,,,m3,1907.07
+903,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,152 x 152 x 23 UC,,kg,2820.2
+904,Substructure,Piling,Permamnent Pile,Micro Pile,G30,400,Nos,542.65
+905,Superstructure,Frame and Slab,RC Beam,Precast,35,"Yes,1:35",m3,6961.52
+906,Substructure,Piling,Permamnent Pile,Bored Pile,G30,200 mm,Nos,1781.2
+907,Superstructure,Frame and Slab,RC Column,Cast in-situ,35,,m3,8578.2
+908,Superstructure,Frame and Slab,RC Staircase,Cast in-situ,G40,,m3,871.27
+909,Substructure,Foundation,Raft Footing,G30,,,m3,5197.0
+910,Substructure,Piling,Permamnent Pile,Micro Pile,G40,400,Nos,6088.33
+911,Superstructure,Frame and Slab,RC Slab,Castinsitu,35,,m3,9327.51
+912,Substructure,Foundation,Raft Footing,G40,,,m3,1786.24
+913,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G40,,m3,4349.0
+914,Superstructure,Frame and Slab,Steel Staircase,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,1464.2
+915,Superstructure,Frame and Slab,Structural Wall,Precast,G40,Ramp Wall,m3,3135.593
+916,Substructure,Piling,Permamnent Pile,Spun Pile,35,400,Nos,23.7
+917,Superstructure,Frame and Slab,RC Staircase,Castinsitu,G40,,m3,4870.6
+918,Substructure,Piling,Permamnent Pile,Spun Pile,G40,350mm,Nos,9482.7
+919,Superstructure,Frame and Slab,Structural Wall,Castinsitu,G30,Lift Core Wall,m3,5578.5
+920,Superstructure,Frame and Slab,RC Slab,Precast,G30,,m3,8479.46
+921,Substructure,Piling,Permamnent Pile,Spun Pile,G30,350mm,Nos,6150.4
+922,Substructure,Piling,Permamnent Pile,Bored Pile,G30,350mm,Nos,6370.6
+923,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G30,,m3,3619.149
+924,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G40,,m3,4509.6
+925,Substructure,Foundation,Substructure Column,G30,,,m3,5214.0
+926,Superstructure,Frame and Slab,RC Column,Cast in-situ,G40,,m3,543.675
+927,Substructure,Foundation,Pile Cap,G40,,,m3,2796.38
+928,Substructure,Piling,Permamnent Pile,Spun Pile,G30,200 mm,Nos,1997.0
+929,Substructure,Foundation,Column Base,G40,,,m3,6715.4
+930,Substructure,Foundation,Column Base,G40,,,m3,3856.5
+931,Substructure,Piling,Permamnent Pile,Micro Pile,35,400,Nos,2946.0
+932,Superstructure,Frame and Slab,RC Column,Castinsitu,G30,,m3,15.955
+933,Superstructure,Frame and Slab,Steel Beam,S355,5,,kg,5510.0
+934,Superstructure,Frame and Slab,Structural Wall,Castinsitu,G40,Planter Wall,m3,2718.9
+935,Substructure,Piling,Permamnent Pile,Micro Pile,G40,200 mm,Nos,8131.02
+936,Substructure,Piling,Permamnent Pile,Spun Pile,G40,200 mm,Nos,7068.0
+937,Substructure,Foundation,Column Base,G40,,,m3,3591.169
+938,Substructure,Foundation,Raft Footing,G30,,,m3,1100.687
+939,Substructure,Piling,Permamnent Pile,Micro Pile,35,200 mm,Nos,7053.569
+940,Superstructure,Frame and Slab,RC Staircase,Castinsitu,G30,,m3,377.2
+941,Superstructure,Frame and Slab,Steel Beam,BS4360 Grade 43A,5,,kg,8906.0
+942,Superstructure,Frame and Slab,RC Slab,Precast,G40,,m3,8243.0
+943,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,5,,kg,4823.0
+944,Substructure,Piling,Permamnent Pile,Bored Pile,35,200 mm,Nos,9402.0
+945,Substructure,Foundation,Substructure Beam,G30,,,m3,5352.477
+946,Substructure,Piling,Permamnent Pile,Micro Pile,G40,400,Nos,857.176
+947,Substructure,Piling,Permamnent Pile,Spun Pile,G40,350mm,Nos,3762.389
+948,Superstructure,Frame and Slab,Steel Beam,S355,5,,kg,5719.4
+949,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,152 x 152 x 23 UC,,kg,4066.88
+950,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,5,,kg,3495.3
+951,Superstructure,Frame and Slab,RC Beam,Castinsitu,35,,m3,8054.0
+952,Substructure,Foundation,Raft Footing,35,,,m3,2399.02
+953,Superstructure,Frame and Slab,RC Staircase,Precast,G30,,m3,9231.0
+954,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,152 x 152 x 23 UC,,kg,9122.55
+955,Substructure,Foundation,Wall Footing,G30,,,m3,7246.0
+956,Substructure,Piling,Permamnent Pile,Bored Pile,35,350mm,Nos,8941.8
+957,Substructure,Piling,Permamnent Pile,Micro Pile,G40,200 mm,Nos,6858.733
+958,Substructure,Foundation,Substrcture Slab,35,,,m3,4098.9
+959,Substructure,Foundation,Substructure Beam,35,,,m3,8292.3
+960,Substructure,Foundation,Substructure Wall,G30,,,m3,661.45
+961,Superstructure,Frame and Slab,RC Staircase,Castinsitu,G30,,m3,2621.0
+962,Substructure,Piling,Permamnent Pile,Spun Pile,35,400,Nos,7253.3
+963,Substructure,Foundation,Raft Footing,G30,,,m3,4920.402
+964,Superstructure,Frame and Slab,RC Column,Precast,G40,,m3,8608.741
+965,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G40,,m3,7734.56
+966,Superstructure,Frame and Slab,RC Slab,Cast in-situ,G40,,m3,5328.458
+967,Superstructure,Frame and Slab,Structural Wall,Cast in-situ,G30,Lift Core Wall,m3,9912.17
+968,Substructure,Foundation,Column Base,G40,,,m3,8926.0
+969,Substructure,Piling,Permamnent Pile,Spun Pile,G40,350mm,Nos,4010.0
+970,Substructure,Piling,Permamnent Pile,Bored Pile,G40,350mm,Nos,740.9
+971,Superstructure,Frame and Slab,Steel Column,S355,5,,kg,9629.75
+972,Substructure,Foundation,Raft Footing,G30,,,m3,6227.13
+973,Superstructure,Frame and Slab,Steel Column,BS4360 Grade 43A,152 x 152 x 23 UC,,kg,8581.91
+974,Substructure,Foundation,Column Base,35,,,m3,8140.53
+975,Superstructure,Frame and Slab,RC Beam,Cast in-situ,G40,,m3,6408.05
+976,Substructure,Piling,Permamnent Pile,Bored Pile,G30,350mm,Nos,9354.39
+977,Substructure,Piling,Permamnent Pile,Bored Pile,G30,350mm,Nos,2496.0
+978,Substructure,Foundation,Substructure Wall,G30,,,m3,3850.409
+979,Substructure,Foundation,Raft Footing,G30,,,m3,7113.1
+980,Substructure,Foundation,Substrcture Slab,G30,,,m3,9979.0
+981,Substructure,Piling,Permamnent Pile,Bored Pile,G30,200 mm,Nos,2787.6
+982,Superstructure,Frame and Slab,RC Slab,Cast in-situ,35,,m3,6525.7
+983,Superstructure,Frame and Slab,RC Slab,Precast,G40,,m3,656.84
+984,Substructure,Piling,Permamnent Pile,Spun Pile,G30,400,Nos,9706.6
+985,Substructure,Piling,Permamnent Pile,Bored Pile,G40,200 mm,Nos,1532.4
+986,Superstructure,Frame and Slab,Steel Staircase,EN 10025 S275,152 x 152 x 23 UC,,kg,9799.05
+987,Superstructure,Frame and Slab,RC Slab,Cast in-situ,35,,m3,7452.0
+988,Superstructure,Frame and Slab,RC Beam,Cast in-situ,35,"Yes,1:35",m3,807.0
+989,Superstructure,Frame and Slab,RC Slab,Cast in-situ,35,,m3,4568.0
+990,Superstructure,Frame and Slab,RC Beam,Cast in-situ,G30,"Yes,1:35",m3,4119.238
+991,Superstructure,Frame and Slab,Steel Beam,EN 10025 S275,5,,kg,3144.2
+992,Superstructure,Frame and Slab,RC Slab,Castinsitu,G30,,m3,8298.0
+993,Superstructure,Frame and Slab,Steel Column,S355,152 x 152 x 23 UC,,kg,2004.0
+994,Superstructure,Frame and Slab,RC Column,Castinsitu,G30,,m3,6722.7
+995,Substructure,Foundation,Column Base,G30,,,m3,4854.34
+996,Substructure,Piling,Permamnent Pile,Bored Pile,G30,350mm,Nos,9115.2
+997,Superstructure,Frame and Slab,RC Slab,Precast,35,,m3,2650.0
+998,Substructure,Foundation,Pile Cap,G30,,,m3,9415.03
+999,Superstructure,Frame and Slab,RC Column,Cast in-situ,G30,,m3,3221.0
